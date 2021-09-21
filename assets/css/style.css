@@ -814,3 +814,14 @@ header {
 .texture-red .post-date,
 .texture-purple .post-date {
   color: #ddd; }
+
+.texture-blue-image {
+  background-image: url("/assets/textures/gears.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto; }
+  .texture-blue-image h2 {
+    color: #ddd; }
+  .texture-blue-image .social i:hover {
+    color: #eee; }
+  .texture-blue-image .post-date {
+    color: #ccc; }
